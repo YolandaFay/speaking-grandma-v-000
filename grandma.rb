@@ -17,5 +17,8 @@ def speak_to_grandma(say_what)
     puts "NO, NOT SINCE 1938!"
   elsif say_what == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
+  else 
+    puts "HUH?! SPEAK UP, SONNY!"
+  end
 
 end 
